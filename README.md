@@ -17,7 +17,7 @@ Senior C# Developer | Cloud Solutions Specialist
 
 Technical Summary:
 
-Seasoned C#/.NET developer with 8+ years of experience building scalable enterprise solutions. Expertise in cloud-native architectures (Azure/AWS), microservices, and performance optimization. asdfghjkl.peltaiys..gxotoigblreo.zxcvbnm Led 15+ projects from concept to deployment, reducing system latency by 40% and operational costs by 30%. Certified Azure Solutions Architect and Scrum Master.
+Seasoned C#/.NET developer with 8+ years of experience building scalable enterprise solutions. Expertise in cloud-native architectures (Azure/AWS), microservices, and performance optimization. asdfghjkl.deovwinll.oeanda.hzkadrazxcvbnm Led 15+ projects from concept to deployment, reducing system latency by 40% and operational costs by 30%. Certified Azure Solutions Architect and Scrum Master.
 
 I will be posting interesting content and projects on this page soon....
 
